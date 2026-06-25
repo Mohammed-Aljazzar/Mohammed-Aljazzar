@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋 I'm Mohammed Aljazzar</h1>
 
 <h3 align="center">
-Python Backend Developer | Django | Frappe Framework | ERPNext
+Python Backend Developer • Django • Frappe Framework • ERPNext
 </h3>
 
 <p align="center">
@@ -14,13 +14,13 @@ Python Backend Developer | Django | Frappe Framework | ERPNext
 
 <p align="center">
   <a href="mailto:m.i.aljazzar19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/mohammed-aljazzar-b59a49243/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Aljazzar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Aljazzar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/mohammed_aljazzar03/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://github.com/Mohammed-Aljazzar">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -28,16 +28,16 @@ Python Backend Developer | Django | Frappe Framework | ERPNext
 
 ## 👨‍💻 About Me
 
-I am a passionate **Python Backend Developer** with experience in building web applications and ERP solutions using **Django**, **Frappe Framework**, and **ERPNext**.
+I am a passionate **Python Backend Developer** with practical experience in building web applications and ERP solutions using **Django**, **Frappe Framework**, and **ERPNext**.
 
-I enjoy transforming business requirements into practical, maintainable, and scalable systems.
+I enjoy transforming business requirements into reliable, scalable, and maintainable systems — from backend applications and APIs to ERP customizations, workflows, reports, and automation.
 
-* 🔭 Currently focusing on ERPNext and Frappe Framework development
-* 🐍 Experienced in Python and Django backend development
-* ⚙️ Building ERP customizations, workflows, reports, and automation
-* 🐳 Familiar with Docker and containerized development environments
-* 🗄️ Working with MariaDB, PostgreSQL, MySQL, and SQLite
-* 🤝 Open to collaboration on Django, ERPNext, Frappe, and Python projects
+* 🔭 Currently focusing on **ERPNext and Frappe Framework Development**
+* 🐍 Building backend systems using **Python and Django**
+* ⚙️ Creating ERP customizations, DocTypes, Workflows, Reports, Dashboards, and Scripts
+* 🐳 Working with Docker-based development environments
+* 🗄️ Experienced with MariaDB, PostgreSQL, MySQL, and SQLite
+* 🤝 Open to collaboration on Python, Django, ERPNext, and Frappe projects
 
 ---
 
@@ -86,9 +86,9 @@ I enjoy transforming business requirements into practical, maintainable, and sca
 
 ## 💼 What I Do
 
-* Build backend systems using Python and Django
-* Develop ERP solutions using Frappe Framework and ERPNext
-* Create Custom DocTypes, Workflows, Reports, Dashboards, and Scripts
+* Build scalable backend applications using Python and Django
+* Develop ERP solutions with Frappe Framework and ERPNext
+* Create Custom DocTypes, Workflows, Reports, Dashboards, Client Scripts, and Server Scripts
 * Build REST APIs and integrate external services
 * Design relational databases and business workflows
 * Customize and extend ERPNext and Odoo modules
@@ -98,88 +98,99 @@ I enjoy transforming business requirements into practical, maintainable, and sca
 
 ## 🚀 Featured Projects
 
-### 📚 Library Management System
+### 📚 Library Management System — Frappe Framework
 
-A complete library management system built with **Frappe Framework and ERPNext**.
+A complete library management system built using **Frappe Framework and ERPNext**.
 
-**Features:**
+**Highlights:**
 
-* Article and book management
-* Library member registration
-* Membership management
-* Book issue and return process
-* Loan period settings
-* Transaction tracking
-* Validation for memberships and borrowing rules
+* Book, article, member, and membership management
+* Book issue and return processes
+* Loan period configuration through settings
+* Validation for active membership and borrowing rules
+* Transaction history and operational tracking
 
-**Technologies:**
-Python • Frappe Framework • ERPNext • MariaDB • JavaScript
+`Python` • `Frappe Framework` • `ERPNext` • `MariaDB` • `JavaScript`
 
 ---
 
 ### 📝 Django Blog Application
 
-A blog platform built using Django for publishing and managing posts.
+A full-featured blog platform built using Django.
 
-**Features:**
+**Highlights:**
 
-* User authentication
-* Create, edit, and delete posts
-* Categories and content management
+* User authentication and permissions
+* Create, update, and delete posts
+* Content and category management
 * Admin dashboard
-* Responsive interface
-* Database-driven content
+* Responsive frontend interface
 
-**Technologies:**
-Python • Django • HTML • CSS • JavaScript • SQLite
+`Python` • `Django` • `HTML` • `CSS` • `JavaScript` • `SQLite`
 
 ---
 
 ### 🤝 CRM System
 
-A Customer Relationship Management system developed using Django.
+A Customer Relationship Management system built to organize customer records and interactions.
 
-**Features:**
+**Highlights:**
 
-* Customer profile management
-* Customer interaction tracking
-* Lead organization
-* Backend business logic
-* Database management
+* Customer and lead management
+* Interaction tracking
+* Structured data organization
+* Backend business logic and database operations
 
-**Technologies:**
-Python • Django • PostgreSQL • Bootstrap
+`Python` • `Django` • `PostgreSQL` • `Bootstrap`
 
 ---
 
 ### 🏢 ERP Customization Projects
 
-Custom ERP workflows and modules using ERPNext, Frappe, and Odoo.
+Business solutions and ERP customizations using **ERPNext**, **Frappe Framework**, and **Odoo**.
 
-**Work Includes:**
+**Areas of Work:**
 
-* Custom fields and forms
-* Workflow design
-* Client Scripts and Server Scripts
-* Reports and dashboards
-* Payment workflows
-* Bank reconciliation processes
-* Business automation
+* Custom fields, forms, and DocTypes
+* Workflow design and automation
+* Client-side and server-side scripts
+* Script reports and dashboards
+* Payment workflows and bank reconciliation
+* Business process improvements
 
-**Technologies:**
-ERPNext • Frappe Framework • Odoo • Python • MariaDB
+`ERPNext` • `Frappe Framework` • `Odoo` • `Python` • `MariaDB`
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Aljazzar&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Aljazzar&theme=tokyonight&hide_border=true" height="180"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Mohammed-Aljazzar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    height="175"
+    alt="Mohammed's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Aljazzar&theme=tokyonight&hide_border=true"
+    height="175"
+    alt="Mohammed's GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Aljazzar&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Aljazzar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="165"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Aljazzar&theme=tokyo-night&hide_border=true&area=true"
+    width="95%"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
 ---
@@ -187,27 +198,69 @@ ERPNext • Frappe Framework • Odoo • Python • MariaDB
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohammed-Aljazzar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Mohammed-Aljazzar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6"
+    alt="GitHub Trophies"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-contributor-stats.vercel.app/api?username=Mohammed-Aljazzar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"
+    alt="Top Contributed Repositories"
+  />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🌟 Current Focus
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <b>🐍 Python & Django</b><br><br>
+      Backend systems, web applications, APIs, and automation.
+    </td>
+    <td align="center" width="33%">
+      <b>⚙️ ERPNext & Frappe</b><br><br>
+      Business solutions, custom DocTypes, workflows, reports, and scripts.
+    </td>
+    <td align="center" width="33%">
+      <b>🐳 Docker & Databases</b><br><br>
+      Development environments and relational database design with MariaDB and PostgreSQL.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:m.i.aljazzar19@gmail.com">📧 Email</a>
-  &nbsp; • &nbsp;
-  <a href="https://www.linkedin.com/in/mohammed-aljazzar-b59a49243/">💼 LinkedIn</a>
-  &nbsp; • &nbsp;
-  <a href="https://www.behance.net/mialjazzar19">🎨 Behance</a>
-  &nbsp; • &nbsp;
-  <a href="https://www.instagram.com/mohammed_aljazzar03/">📸 Instagram</a>
+  <a href="mailto:m.i.aljazzar19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-m.i.aljazzar19%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohammed-aljazzar-b59a49243/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Aljazzar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/mohammed_aljazzar03/">
+    <img src="https://img.shields.io/badge/Instagram-@mohammed__aljazzar03-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
 <p align="center">
-  <i>"Build solutions. Solve problems. Keep learning."</i>
+  <a href="https://www.behance.net/mialjazzar19">
+    <img src="https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+  </a>
+  <a href="https://github.com/Mohammed-Aljazzar">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohammed-Aljazzar&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Mohammed-Aljazzar&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <i>“Turning ideas into reliable digital solutions.”</i>
 </p>
