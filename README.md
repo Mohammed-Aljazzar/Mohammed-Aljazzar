@@ -164,35 +164,42 @@ Business solutions and ERP customizations using **ERPNext**, **Frappe Framework*
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Mohammed-Aljazzar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    height="175"
-    alt="Mohammed's GitHub Stats"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Aljazzar&theme=tokyonight&hide_border=true"
-    height="175"
-    alt="Mohammed's GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Aljazzar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="165"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Aljazzar&theme=tokyo-night&hide_border=true&area=true"
-    width="95%"
-    alt="GitHub Contribution Graph"
-  />
-</p>
-
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Aljazzar&theme=tokyonight&hide_border=true"
+        alt="GitHub Streak"
+        height="200"
+      />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Aljazzar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+        alt="Top Languages"
+        height="200"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Mohammed-Aljazzar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800"
+        alt="GitHub Stats"
+        width="95%"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Aljazzar&theme=tokyo-night&hide_border=true&area=true"
+        alt="GitHub Activity Graph"
+        width="95%"
+      />
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🏆 GitHub Achievements
