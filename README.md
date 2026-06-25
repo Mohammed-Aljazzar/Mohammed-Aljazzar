@@ -205,17 +205,25 @@ Business solutions and ERP customizations using **ERPNext**, **Frappe Framework*
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Mohammed-Aljazzar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6"
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Mohammed-Aljazzar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4"
     alt="GitHub Trophies"
   />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-contributor-stats.vercel.app/api?username=Mohammed-Aljazzar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"
-    alt="Top Contributed Repositories"
-  />
+  <a href="https://github.com/Mohammed-Aljazzar?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/View%20My%20Repositories-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View My Repositories"
+    />
+  </a>
+  <a href="https://github.com/Mohammed-Aljazzar?tab=stars">
+    <img
+      src="https://img.shields.io/badge/Explore%20My%20Stars-GitHub-F1C40F?style=for-the-badge&logo=github&logoColor=black"
+      alt="Explore My Stars"
+    />
+  </a>
 </p>
 
 ---
