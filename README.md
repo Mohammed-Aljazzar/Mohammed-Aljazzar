@@ -192,7 +192,7 @@ Business solutions using **ERPNext**, **Frappe**, and **Odoo**.
     </td>
     <td align="center" width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Aljazzar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohammed-Aljazzar&theme=tokyonight"
         alt="Top Languages"
         height="180"
       />
