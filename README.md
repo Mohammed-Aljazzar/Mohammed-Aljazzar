@@ -185,16 +185,17 @@ Business solutions using **ERPNext**, **Frappe**, and **Odoo**.
   <tr>
     <td align="center" width="50%">
       <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Aljazzar&theme=tokyonight&hide_border=true"
+        src="https://streak-stats.demolab.com?user=Mohammed-Aljazzar&theme=tokyonight&hide_border=true"
         alt="GitHub Streak"
-        height="180"
+        width="100%"
       />
     </td>
+
     <td align="center" width="50%">
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohammed-Aljazzar&theme=tokyonight"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Aljazzar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5"
         alt="Top Languages"
-        height="180"
+        width="100%"
       />
     </td>
   </tr>
