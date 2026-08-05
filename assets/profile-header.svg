@@ -1,0 +1,64 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="60" y1="20" x2="1140" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.52" stop-color="#0B1F3A"/>
+      <stop offset="1" stop-color="#071827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="300" y1="70" x2="900" y2="285" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(916 88) rotate(145) scale(480 290)">
+      <stop stop-color="#0EA5E9" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="#93C5FD" stroke-opacity="0.07"/>
+    </pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="12" stdDeviation="24" flood-color="#020617" flood-opacity="0.6"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glow)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="27" stroke="#38BDF8" stroke-opacity="0.22"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+
+  <g opacity="0.95" filter="url(#shadow)">
+    <rect x="70" y="58" width="92" height="92" rx="26" fill="#0B253F" stroke="#38BDF8" stroke-opacity="0.45"/>
+    <path d="M98 86C98 76.059 106.059 68 116 68H132C141.941 68 150 76.059 150 86V97H116C106.059 97 98 105.059 98 115V86Z" fill="#38BDF8"/>
+    <circle cx="116" cy="84" r="4" fill="#07111F"/>
+    <path d="M150 122C150 131.941 141.941 140 132 140H116C106.059 140 98 131.941 98 122V111H132C141.941 111 150 102.941 150 93V122Z" fill="#FACC15"/>
+    <circle cx="132" cy="124" r="4" fill="#07111F"/>
+  </g>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="198" y="100" fill="#7DD3FC" font-size="18" font-weight="700" letter-spacing="4">SOFTWARE ENGINEER</text>
+    <text x="198" y="166" fill="#F8FAFC" font-size="54" font-weight="800">Mohammed Aljazzar</text>
+    <rect x="198" y="190" width="630" height="4" rx="2" fill="url(#accent)"/>
+    <text x="198" y="234" fill="#CBD5E1" font-size="24" font-weight="600">Python Backend Developer  •  ERP Solutions Engineer</text>
+    <text x="198" y="275" fill="#94A3B8" font-size="18">Django  ·  Frappe Framework  ·  ERPNext  ·  REST APIs  ·  Business Automation</text>
+  </g>
+
+  <g transform="translate(922 92)">
+    <circle cx="84" cy="84" r="80" fill="#071827" fill-opacity="0.75" stroke="#38BDF8" stroke-opacity="0.25"/>
+    <circle cx="84" cy="84" r="56" stroke="#22D3EE" stroke-opacity="0.25" stroke-dasharray="5 9"/>
+    <circle cx="84" cy="84" r="6" fill="#22D3EE"/>
+    <circle cx="84" cy="18" r="5" fill="#38BDF8"/>
+    <circle cx="141" cy="51" r="5" fill="#60A5FA"/>
+    <circle cx="141" cy="117" r="5" fill="#22D3EE"/>
+    <circle cx="84" cy="150" r="5" fill="#38BDF8"/>
+    <circle cx="27" cy="117" r="5" fill="#60A5FA"/>
+    <circle cx="27" cy="51" r="5" fill="#22D3EE"/>
+    <path d="M84 18L141 51L141 117L84 150L27 117L27 51L84 18Z" stroke="url(#accent)" stroke-opacity="0.75" stroke-width="2"/>
+    <path d="M84 84L84 18M84 84L141 51M84 84L141 117M84 84L84 150M84 84L27 117M84 84L27 51" stroke="#38BDF8" stroke-opacity="0.48"/>
+  </g>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <rect x="70" y="304" width="1060" height="1" fill="#38BDF8" fill-opacity="0.18"/>
+    <text x="70" y="331" fill="#64748B" font-size="14" letter-spacing="1.2">BUILDING RELIABLE SYSTEMS • AUTOMATING BUSINESS WORKFLOWS • SHIPPING MAINTAINABLE SOFTWARE</text>
+  </g>
+</svg>
