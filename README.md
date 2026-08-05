@@ -11,7 +11,7 @@
   <a href="mailto:m.i.aljazzar19@gmail.com">
     <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/mohammed-aljazzar/">
+  <a href="https://www.linkedin.com/in/mohammed-aljazzar-b59a49243/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Mohammed-Aljazzar?tab=repositories">
@@ -104,45 +104,97 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 Flashcards App</h3>
-      <p>A Django-based learning application that uses spaced repetition and mastery-based card progression.</p>
-      <p><strong>Key work:</strong> data modeling, review workflow, authentication, CRUD operations, and responsive UI.</p>
+    <td colspan="2" valign="top">
       <p>
-        <code>Python</code> <code>Django</code> <code>HTML</code> <code>CSS</code>
+        <img src="https://img.shields.io/badge/FEATURED%20PROJECT-Masar%20Partner-0EA5E9?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Featured project: Masar Partner" />
       </p>
-      <a href="https://github.com/Mohammed-Aljazzar/Flashcards-App">
-        <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Flashcards App" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤝 CRM System</h3>
-      <p>A customer relationship management system for organizing records and managing customer interactions.</p>
-      <p><strong>Key work:</strong> authentication, record management, backend business logic, and database operations.</p>
+      <h3>🚀 Masar Partner — Digital Solutions & Academy Platform</h3>
       <p>
-        <code>Python</code> <code>Django</code> <code>JavaScript</code> <code>Database</code>
+        A multi-surface Arabic platform combining a public company website, training academy,
+        consultation booking flow, and a protected role-based admin dashboard.
       </p>
-      <a href="https://github.com/Mohammed-Aljazzar/CRM-SITE">
-        <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="View CRM System" />
+      <p>
+        <strong>Highlights:</strong> bilingual public website, academy experience, consultation scheduling,
+        Google Meet integration, operational automation, content management, and RTL-first responsive design.
+      </p>
+      <p>
+        <code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Automation</code>
+      </p>
+      <a href="https://github.com/Mohammed-Aljazzar/masar_partner">
+        <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Masar Partner repository" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📚 Library Management System</h3>
-      <p>A structured library solution built with Frappe and ERPNext for books, members, memberships, and lending operations.</p>
-      <p><strong>Key work:</strong> DocTypes, issue and return workflows, transaction tracking, and borrowing validation.</p>
+      <h3>⚙️ Smart Service Management</h3>
+      <p>
+        A Frappe and ERPNext application that manages service operations from customer request intake
+        through execution, SLA monitoring, feedback, reporting, and billing.
+      </p>
+      <p>
+        <strong>Highlights:</strong> service catalog, request lifecycle, task generation, SLA tracking,
+        daily reminders, customer portal, feedback automation, and Sales Invoice creation.
+      </p>
       <p>
         <code>Python</code> <code>Frappe</code> <code>ERPNext</code> <code>MariaDB</code>
       </p>
+      <a href="https://github.com/Mohammed-Aljazzar/Smart-Service-Management-By-Frappe">
+        <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Smart Service Management repository" />
+      </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏢 ERP Customization Projects</h3>
-      <p>Business-focused ERP customizations designed around operational workflows and reporting requirements.</p>
-      <p><strong>Key work:</strong> custom fields, DocTypes, workflows, automation, reports, dashboards, and reconciliation flows.</p>
+      <h3>📚 Library Management System</h3>
       <p>
-        <code>ERPNext</code> <code>Frappe</code> <code>Odoo</code> <code>MariaDB</code>
+        A focused Frappe application for managing articles, members, memberships,
+        lending operations, overdue tracking, and configurable fines.
       </p>
+      <p>
+        <strong>Highlights:</strong> issue and return workflows, automatic due dates, borrowing rules,
+        overdue scheduler, workspace dashboard, smart actions, and transaction validation.
+      </p>
+      <p>
+        <code>Python</code> <code>Frappe</code> <code>ERPNext</code> <code>MariaDB</code>
+      </p>
+      <a href="https://github.com/Mohammed-Aljazzar/frappe_Library_management_system">
+        <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Library Management System repository" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏡 Airbnb Reservations</h3>
+      <p>
+        A Django travel-booking platform where users can discover, filter, reserve,
+        and review hotels, restaurants, and destinations.
+      </p>
+      <p>
+        <strong>Highlights:</strong> authentication, profiles, property management, reservations,
+        ratings, search and filtering, blog content, responsive UI, and admin management.
+      </p>
+      <p>
+        <code>Python</code> <code>Django</code> <code>Bootstrap</code> <code>SQLite</code>
+      </p>
+      <a href="https://github.com/Mohammed-Aljazzar/Airbnb-Reservations">
+        <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Airbnb Reservations repository" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 Boards Community</h3>
+      <p>
+        A Django discussion platform that organizes community conversations into boards,
+        topics, replies, and authenticated user accounts.
+      </p>
+      <p>
+        <strong>Highlights:</strong> admin-managed boards, user-created topics, threaded participation,
+        registration, login, profile management, and password updates.
+      </p>
+      <p>
+        <code>Python</code> <code>Django</code> <code>SQLite</code> <code>Community Platform</code>
+      </p>
+      <a href="https://github.com/Mohammed-Aljazzar/Boards-Community">
+        <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Boards Community repository" />
+      </a>
     </td>
   </tr>
 </table>
