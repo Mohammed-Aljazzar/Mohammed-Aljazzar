@@ -11,7 +11,7 @@
   <a href="mailto:m.i.aljazzar19@gmail.com">
     <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/mohammed-aljazzar-b59a49243/">
+  <a href="https://www.linkedin.com/in/mohammed-aljazzar/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Mohammed-Aljazzar?tab=repositories">
@@ -287,10 +287,10 @@
   <a href="mailto:m.i.aljazzar19@gmail.com">
     <img src="https://img.shields.io/badge/Start%20a%20Conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mohammed Aljazzar" />
   </a>
-  <a href="https://www.linkedin.com/in/mohammed-aljazzar-b59a49243/">
+  <a href="https://www.linkedin.com/in/mohammed-aljazzar/">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
-  <a href="https://www.behance.net/mialjazzar19">
+  <a href="https://www.behance.net/moh_aljazzar">
     <img src="https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Portfolio" />
   </a>
 </p>
