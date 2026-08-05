@@ -11,7 +11,7 @@
   <a href="mailto:m.i.aljazzar19@gmail.com">
     <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/mohammed-aljazzar-b59a49243/">
+  <a href="https://www.linkedin.com/in/mohammed-aljazzar/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Mohammed-Aljazzar?tab=repositories">
