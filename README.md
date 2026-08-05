@@ -207,12 +207,41 @@
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Aljazzar&bg_color=07111F&color=7DD3FC&line=38BDF8&point=F8FAFC&area=true&area_color=0EA5E9&hide_border=true&custom_title=Mohammed%20Aljazzar's%20Contribution%20Activity" width="100%" alt="Mohammed Aljazzar contribution activity" />
+  <img
+    src="https://raw.githubusercontent.com/Mohammed-Aljazzar/Mohammed-Aljazzar/main/profile-summary-card-output/tokyonight/0-profile-details.svg"
+    width="100%"
+    alt="Mohammed Aljazzar GitHub profile details"
+  />
 </p>
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Mohammed-Aljazzar/Mohammed-Aljazzar/main/profile-summary-card-output/tokyonight/3-stats.svg"
+    width="49%"
+    alt="Mohammed Aljazzar GitHub statistics"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Mohammed-Aljazzar/Mohammed-Aljazzar/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg"
+    width="49%"
+    alt="Mohammed Aljazzar repositories per language"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Mohammed-Aljazzar/Mohammed-Aljazzar/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg"
+    width="49%"
+    alt="Mohammed Aljazzar most committed languages"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Mohammed-Aljazzar/Mohammed-Aljazzar/main/profile-summary-card-output/tokyonight/4-productive-time.svg"
+    width="49%"
+    alt="Mohammed Aljazzar productive coding time"
+  />
+</p>
 ---
 
 ## What I Bring to a Project
