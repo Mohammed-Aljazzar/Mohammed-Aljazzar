@@ -242,6 +242,7 @@
     alt="Mohammed Aljazzar productive coding time"
   />
 </p>
+
 ---
 
 ## What I Bring to a Project
