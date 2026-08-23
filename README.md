@@ -33,9 +33,10 @@
     <td width="62%" valign="top">
       <h3>Backend engineering with a business-first mindset</h3>
       <p>
-        I am a <strong>Python Backend Developer</strong> focused on building dependable web applications,
-        ERP solutions, and workflow automation systems using <strong>Django</strong>,
-        <strong>Frappe Framework</strong>, and <strong>ERPNext</strong>.
+        I am an <strong>ERPNext Developer & Python Backend Engineer</strong> focused on building
+        reliable business systems, scalable backend applications, and workflow automation solutions
+        using <strong>Python</strong>, <strong>Django</strong>, <strong>Frappe Framework</strong>,
+        and <strong>ERPNext</strong>.
       </p>
       <p>
         My work starts with understanding the operation behind the feature: the users, rules, approvals,
@@ -45,12 +46,12 @@
     </td>
     <td width="38%" valign="top">
       <h3>Quick Snapshot</h3>
-      <p>🔹 <strong>Primary:</strong> Python Backend Development</p>
+      <p>🔹 <strong>Primary:</strong> ERPNext & Python Backend Engineering</p>
       <p>🔹 <strong>ERP:</strong> Frappe, ERPNext, Odoo</p>
-      <p>🔹 <strong>Web:</strong> Django, REST APIs</p>
-      <p>🔹 <strong>Data:</strong> MariaDB, PostgreSQL, MySQL</p>
-      <p>🔹 <strong>Environment:</strong> Docker, Linux, Git</p>
-      <p>🔹 <strong>Focus:</strong> Reliable business systems</p>
+      <p>🔹 <strong>Backend:</strong> Python, Django, REST APIs</p>
+      <p>🔹 <strong>Data:</strong> MariaDB, PostgreSQL, MySQL, SQLite</p>
+      <p>🔹 <strong>Environment:</strong> Docker, Linux, Git, GitHub</p>
+      <p>🔹 <strong>Focus:</strong> Reliable and maintainable business systems</p>
     </td>
   </tr>
 </table>
@@ -241,6 +242,27 @@
     width="49%"
     alt="Mohammed Aljazzar productive coding time"
   />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Mohammed-Aljazzar/Mohammed-Aljazzar/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Mohammed-Aljazzar/Mohammed-Aljazzar/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Mohammed-Aljazzar/Mohammed-Aljazzar/output/github-contribution-grid-snake.svg"
+      alt="Mohammed Aljazzar GitHub contribution snake animation"
+    />
+  </picture>
 </p>
 
 ---
