@@ -292,8 +292,6 @@
 
 ---
 
----
-
 ## What I Bring to a Project
 
 <table width="100%">
