@@ -4,7 +4,7 @@
 ========================================================== -->
 
 <p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Mohammed Aljazzar — Python Backend Developer and ERP Solutions Engineer" />
+  <img src="./assets/profile-header.svg" width="100%" alt="Mohammed Aljazzar — ERPNext Developer  •  Python Backend Engineer" />
 </p>
 
 <p align="center">
@@ -195,6 +195,30 @@
       </p>
       <a href="https://github.com/Mohammed-Aljazzar/Boards-Community">
         <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Boards Community repository" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <p>
+        <img src="https://img.shields.io/badge/LATEST%20PROJECT-Restaurant%20Management-22C55E?style=for-the-badge&logo=django&logoColor=white" alt="Latest project: Restaurant Management System" />
+      </p>
+      <h3>🍽️ Restaurant Management System</h3>
+      <p>
+        A Django-based restaurant operations platform designed to centralize users,
+        configuration, operational records, and administrative workflows in one
+        structured and responsive dashboard.
+      </p>
+      <p>
+        <strong>Highlights:</strong> modular Django architecture, administrative configuration,
+        database-backed operations, form handling, validation foundations, and an
+        AdminLTE-based management interface.
+      </p>
+      <p>
+        <code>Python</code> <code>Django</code> <code>SQLite</code> <code>Bootstrap</code> <code>AdminLTE</code>
+      </p>
+      <a href="https://github.com/Mohammed-Aljazzar/restaurant_management_system">
+        <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Restaurant Management System repository" />
       </a>
     </td>
   </tr>
