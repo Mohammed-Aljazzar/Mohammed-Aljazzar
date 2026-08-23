@@ -276,19 +276,21 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="./assets/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/Mohammed-Aljazzar/Mohammed-Aljazzar/main/assets/github-contribution-grid-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="./assets/github-contribution-grid-snake.svg"
+      srcset="https://raw.githubusercontent.com/Mohammed-Aljazzar/Mohammed-Aljazzar/main/assets/github-contribution-grid-snake.svg"
     />
     <img
-      src="./assets/github-contribution-grid-snake.svg"
-      alt="Mohammed Aljazzar GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/Mohammed-Aljazzar/Mohammed-Aljazzar/main/assets/github-contribution-grid-snake.svg"
       width="100%"
+      alt="Mohammed Aljazzar GitHub contribution snake animation"
     />
   </picture>
 </p>
+
+---
 
 ---
 
